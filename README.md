@@ -6,3 +6,7 @@ Matrix problems in java -
 Array searching in Java - 
 1. Linear Search 
 2. Binary Search 
+
+Other array programs in Java - 
+1. Factorial of a number 
+2. Arithmetic Operations between 2 numbers using Switch case
