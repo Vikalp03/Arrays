@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Addmatrix {
+class AddMatrix {
 public static void main(String[] args)
 {
 int i,j,r,c,A[][],B[][],C[][];
