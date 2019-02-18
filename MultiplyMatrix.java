@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MultiplyM {
+class MultiplyMatrix {
 public static void main(String[] args) {
 int r1,c1,r2,c2,A[][],B[][],C[][],i,j,k;
 Scanner in = new Scanner(System.in);
