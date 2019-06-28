@@ -12,4 +12,5 @@ Other programs in Java -
 1. Factorial of a number 
 2. Arithmetic Operations between 2 numbers using Switch case
 3. Lexicographically smallest and largest substring in a string
+4. Program to check whether the strings are anagrams
 
