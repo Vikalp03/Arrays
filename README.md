@@ -14,4 +14,4 @@ Other programs in Java -
 3. Lexicographically smallest and largest substring in a string
 4. Program to check whether the strings are anagrams
 5. Program to find out the missing element in the array
-
+6. Program to find out the duplicate element in the array
