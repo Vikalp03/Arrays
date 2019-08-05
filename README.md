@@ -13,4 +13,5 @@ Other programs in Java -
 2. Arithmetic Operations between 2 numbers using Switch case
 3. Lexicographically smallest and largest substring in a string
 4. Program to check whether the strings are anagrams
+5. Program to find out the missing element in the array
 
