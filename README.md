@@ -7,6 +7,7 @@ Array programs in Java -
 1. Linear Search 
 2. Binary Search 
 3. Reverse of an array
+4. Bubble sort
 
 Other programs in Java - 
 1. Factorial of a number 
