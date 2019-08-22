@@ -18,3 +18,5 @@ Other programs in Java -
 5. Program to find out the missing element in the array
 6. Program to find out the duplicate element in the array
 7. Program to find out the biggest difference in the array
+8. Program to find out the mode of the numbers in the array
+
